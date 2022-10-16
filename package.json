@@ -4,7 +4,7 @@
   "description": "WIAT 7-3-2 Homework - Playwright",
   "main": "index.js",
   "scripts": {
-    "test": "playwright"
+    "test": "playwright test"
   },
   "repository": {
     "type": "git",
