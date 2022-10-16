@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alexkochutov/WIAT-7-3-2#readme",
   "devDependencies": {
+    "@playwright/test": "^1.27.1",
     "playwright": "^1.27.1"
   }
 }
