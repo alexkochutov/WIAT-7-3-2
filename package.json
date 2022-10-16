@@ -4,7 +4,7 @@
   "description": "WIAT 7-3-2 Homework - Playwright",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "playwright"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexkochutov/WIAT-7-3-2/issues"
   },
-  "homepage": "https://github.com/alexkochutov/WIAT-7-3-2#readme"
+  "homepage": "https://github.com/alexkochutov/WIAT-7-3-2#readme",
+  "devDependencies": {
+    "playwright": "^1.27.1"
+  }
 }
